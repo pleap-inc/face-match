@@ -1,2 +1,3 @@
 # face-match
-face-recognition 
+face-recognition powered matching artificial inteligence
+
